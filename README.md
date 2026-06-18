@@ -1,4 +1,4 @@
-# Web3 Decoder 
+# Web3 Decoder
 
 Web3 Decoder is a Burp Suite Extension designed for analyzing blockchain operations
 and smart contract interactions. It processes JSON-RPC calls to Ethereum and compatible networks
@@ -31,6 +31,25 @@ For example:
 # Polygon (chain id 137), contract 0x447646e84498552e62ecf097cc305eabfff09308
 137_0x447646e84498552e62ecf097cc305eabfff09308.abi
 ~~~
+
+## **Attention Windows & macOS Users:** 
+This documentation applies to Windows and Linux; macOS users can use the [DMG file](../../releases).
+
+
+
+
+
+Check for Git and Python on your system.
+
+https://git-scm.com/install/windows
+
+https://www.python.org/ftp/python/3.13.12/python-3.13.12-amd64.exe
+
+Start a terminal session as administrator.
+
+
+
+
 
 ## Precompiled Binaries and Python3 Virtualenv
 
