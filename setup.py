@@ -9,7 +9,7 @@ import burp_web3_decoder
 from pathlib import Path
 
 
-burp_web3_decoder.run_sync(FORCE_SYNC=True)
+burp_web3_decoder.run_sync()
 
 def _banner() -> Panel:
     return Panel.fit(
